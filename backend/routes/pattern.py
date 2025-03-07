@@ -1,0 +1,1 @@
+# route to detimereine of their is a bullshit or bearish chart
