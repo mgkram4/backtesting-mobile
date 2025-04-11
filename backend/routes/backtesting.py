@@ -1,5 +1,7 @@
 import datetime
 from venv import logger
+
+import numpy as np
 import pandas as pd
 from flask import Flask, jsonify, request
 
